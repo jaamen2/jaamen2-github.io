@@ -17,16 +17,15 @@ body {
 }
 .linkbar {
  position: relative;
- height: 10px;
  border-bottom: 2px solid white;
  border-top: 2px solid white;
  display: inline;
- padding: 15px;
- color: white;
+ padding: 5px;
+ padding-left: 40;
+ padding-right: 40;
 }
 h4{
  font-size: 18px;
- color:white;
 } 
 h2{ 
  font-size: 36px;
