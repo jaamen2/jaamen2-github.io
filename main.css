@@ -16,8 +16,6 @@ body {
   padding: 1rem;
   text-align:center;
 }
-.header h2{color: #2F4F4F;
-}
 h2{ 
 font-size: 32px; 
 color: #2F4F4F;
@@ -26,6 +24,5 @@ h3{
 font-size: 36px; 
 }
 p {font-size: 18px; color:#2F4F4F;}
-
 a:link, a:visited, a:hover, a:active { color: #2F4F4F; text-decoration: none;}
 
