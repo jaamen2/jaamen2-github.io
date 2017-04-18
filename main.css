@@ -3,12 +3,10 @@ body {
   padding: 0px;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
  text-align: center;
-  background-color: blue;
+  background-color: DarkBlue;
 }
 .header {
   height: 150px; 
-  background-image: url(http://i.imgur.com/DuYaZnw.jpg?3);
-  background-size: cover;
   position: relative;
   right: 0;
   top: 0;
