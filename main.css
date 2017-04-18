@@ -14,12 +14,14 @@ body {
   bottom: 50px;
   padding: 1rem;
   text-align:center;
-  border-bottom: 5px solid white;
 }
 .linkbar {
+ position: relative;
  height: 10px;
- border-bottom: 5px solid white;
+ border-bottom: 3px solid white;
+ border-top: 3px solid white;
  display: inline;
+ padding: 5px;
  color: white;
 }
 h4{
@@ -36,5 +38,5 @@ font-size: 30px;
 }
 
 p {font-size: 18px; color: white;}
-a:link, a:visited, a:hover, a:active {color: white; text-decoration: underline; padding: 10px}
+a:link, a:visited, a:hover, a:active {color: white; text-decoration: underline;}
 
