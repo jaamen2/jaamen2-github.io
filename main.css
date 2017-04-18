@@ -4,7 +4,7 @@ body {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   text-align: center;
   background-color: DarkBlue;
-  color: white;
+  color: yellow;
 }
 .header {
   height: 100px; 
@@ -12,15 +12,13 @@ body {
   top: 0px;
   left: 0px;
   right: 0px;
-  margin-bottom: 20px;
   padding: 1rem;
 }
 .linkbar {
- position: relative;
- border-bottom: 2px solid white;
- border-top: 2px solid white;
- display: inline-block;
- padding: 4px;
+  border-bottom: 2px solid white;
+  border-top: 2px solid white;
+  display: inline-block;
+  padding: 4px;
 }
 h4{
   margin-top: 40px;
@@ -28,10 +26,10 @@ h4{
   font-size: 18px;
 } 
 h2{ 
- font-size: 36px;
+  font-size: 36px;
 }
 h3{
- font-size: 30px;
+  font-size: 30px;
 }
 p{
   margin-top: 45px;
