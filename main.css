@@ -17,8 +17,8 @@ body {
   border-bottom: 5px solid white;
 }
 .linkbar {
- height: 50px;
- border-bottom:5px solid white;
+ height: 10px;
+ border-bottom: 5px solid white;
  display: inline;
  color: white;
 }
@@ -29,6 +29,10 @@ color: white;
 h3{ 
 font-size: 30px;
  color: white;
+}
+h4{
+ font-size: 24px;
+ color:white;
 }
 p {font-size: 18px; color: white;}
 a:link, a:visited, a:hover, a:active {color: white; text-decoration: underline;}
