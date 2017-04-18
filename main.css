@@ -18,25 +18,24 @@ body {
 .linkbar {
  position: relative;
  height: 10px;
- border-bottom: 3px solid white;
- border-top: 3px solid white;
+ border-bottom: 2px solid white;
+ border-top: 2px solid white;
  display: inline;
- padding: 5px;
+ padding: 15px;
  color: white;
 }
 h4{
- font-size: 24px;
-  color:white;
+ font-size: 18px;
+ color:white;
 } 
 h2{ 
-font-size: 36px; 
-color: white;
+ font-size: 36px;
 }
-h3{ 
-font-size: 30px;
- color: white;
+h3{
+ font-size: 30px;
 }
-
-p {font-size: 18px; color: white;}
+p{
+  font-size: 18px;
+}
 a:link, a:visited, a:hover, a:active {color: white; text-decoration: underline; padding: 5px;}
 
