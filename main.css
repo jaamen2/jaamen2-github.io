@@ -16,6 +16,11 @@ body {
   text-align:center;
   border-bottom: 5px solid white;
 }
+.linkbar {
+ height: 50px;
+ border-bottom:5px solid white;
+ display: inline;
+}
 h2{ 
 font-size: 36px; 
 color: white;
