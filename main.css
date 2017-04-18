@@ -38,5 +38,5 @@ font-size: 30px;
 }
 
 p {font-size: 18px; color: white;}
-a:link, a:visited, a:hover, a:active {color: white; text-decoration: underline;}
+a:link, a:visited, a:hover, a:active {color: white; text-decoration: underline; padding: 5px;}
 
