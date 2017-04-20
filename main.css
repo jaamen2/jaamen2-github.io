@@ -23,8 +23,6 @@ body {
   display: inline-block;
   padding: 4px;
   font-size: 18px;
-  padding-right: 40px; 
-  padding-left: 40px; 
 }
 h4{
   margin-top: 60px;
@@ -42,13 +40,16 @@ p{
   font-size: 24px;
 }
 .activitiesgrid{
-  padding-right: 50px;
-  padding-left: 50px;
   font-size: 24px;
   display: inline-block;
+  width: 150px;
+  height: 75px;
+  margin: 10px;
 }
 a:link, a:visited, a:hover, a:active {
   color: white; 
   text-decoration: underline;  
+  padding-right: 40px; 
+  padding-left: 40px; 
 }
 
