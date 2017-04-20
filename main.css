@@ -39,7 +39,8 @@ p{
   font-size: 18px;
 }
 .activitiesgrid{
-  margin: 100px;
+  margin: 200px;
+  font-size: 36px;
   display: inline-block;
 }
 a:link, a:visited, a:hover, a:active {
