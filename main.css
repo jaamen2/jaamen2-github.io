@@ -15,7 +15,8 @@ body {
   padding: 1rem;
 }
 .aboutme {
-  margin-right: -200px;
+  position: absolute;
+  margin-right: -300px;
 }
 .linkbar {
   border-bottom: 2px solid white;
@@ -42,9 +43,6 @@ p{
 .activitiesgrid{
   font-size: 24px;
   display: inline-block;
-  width: 75px;
-  height: 75px;
-  margin: 10px;
 }
 a:link, a:visited, a:hover, a:active {
   color: white; 
