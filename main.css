@@ -15,7 +15,7 @@ body {
   padding: 1rem;
 }
 .aboutme {
-  text-align: right;
+  margin-right: -200px;
 }
 .linkbar {
   border-bottom: 2px solid white;
