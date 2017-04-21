@@ -42,10 +42,15 @@ p{
   margin-top: 45px;
   font-size: 24px;
 }
-.activitiesgrid{
-  font-size: 24px;
-  display: inline-block;
-  vertical-align: text-top;
+.activitiesgrid li{
+ font-size: 24px;
+ margin: 60px;
+ display: inline-block;
+ vertical-align: text-top;
+}
+.activitiesgrid ul{
+ display: inline-block;
+ text-align: center;
 }
 a:link, a:visited, a:hover, a:active {
   color: white; 
