@@ -4,7 +4,7 @@ body {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   text-align: center;
   background-color: DarkBlue;
-  color: white;
+  color: yellow;
 }
 .header {
   height: 100px; 
@@ -28,7 +28,7 @@ body {
   font-size: 22px;
 }
 h4{
-  margin-top: 50px;
+  margin-top: 45px;
   margin-bottom: 0px;
   font-size: 18px;
 } 
@@ -45,8 +45,7 @@ p{
 .activitiesgrid li{
  font-size: 24px;
  margin: 60px;
- display: inline-block;
- vertical-align: text-top;
+ display: block;
 }
 .activitiesgrid ul{
  display: inline-block;
