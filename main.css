@@ -16,8 +16,8 @@ body {
 }
 .aboutme {
   margin-top: 20px;
-  margin-right: 60px;
   text-align: right;
+  margin-right: 100px;
   font-size: 24px;
 }
 .linkbar {
@@ -50,6 +50,7 @@ p{
 }
 .caption{
  display: block;
+ font-size: 24px;
 }
 .activitiesgrid li{
  font-size: 24px;
