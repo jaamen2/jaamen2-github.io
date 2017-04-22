@@ -52,6 +52,9 @@ p{
  display: inline-block;
  text-align: center;
 }
+.activity{
+ display:block;
+}
 a:link, a:visited, a:hover, a:active {
   color: white; 
   text-decoration: underline;  
