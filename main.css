@@ -45,6 +45,8 @@ p{
 .activitygrid{
  vertical-align: top;
  display: inline-block;
+ text-align: center;
+ width: 450px;
 }
 .caption{
  display: block;
