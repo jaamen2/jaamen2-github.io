@@ -42,6 +42,13 @@ p{
   margin-top: 45px;
   font-size: 24px;
 }
+.activitygrid{
+ vertical-align: top;
+ display: inline-block;
+}
+.caption{
+ display: block;
+}
 .activitiesgrid li{
  font-size: 24px;
  margin: 60px;
