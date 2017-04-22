@@ -4,7 +4,7 @@ body {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   text-align: center;
   background-color: DarkBlue;
-  color: yellow;
+  color: orange;
 }
 .header {
   height: 100px; 
@@ -46,7 +46,8 @@ p{
  vertical-align: top;
  display: inline-block;
  text-align: center;
- width: 450px;
+ width: 600px;
+ height: 400px;
  margin-bottom: 50px;
 }
 .caption{
