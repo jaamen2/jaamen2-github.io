@@ -54,18 +54,6 @@ p{
  display: block;
  font-size: 24px;
 }
-.activitiesgrid li{
- font-size: 24px;
- margin: 60px;
- display: block;
-}
-.activitiesgrid ul{
- display: inline-block;
- text-align: center;
-}
-.activity{
- display:block;
-}
 a:link, a:visited, a:hover, a:active {
   color: white; 
   text-decoration: underline;  
