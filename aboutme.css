@@ -1,1 +1,50 @@
-
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  text-align: center;
+  background-color: DarkBlue;
+  color: white;
+}
+.header {
+  height: 100px; 
+  position: relative;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  padding: 1rem;
+}
+.home {
+  margin-top: 20px;
+  text-align: right;
+  margin-right: 150px;
+  font-size: 24px;
+}
+.linkbar {
+  border-bottom: 2px solid white;
+  border-top: 2px solid white;
+  display: inline-block;
+  padding: 4px;
+  font-size: 22px;
+}
+h4{
+  margin-top: 45px;
+  margin-bottom: 0px;
+  font-size: 18px;
+} 
+h2{ 
+  font-size: 36px;
+}
+h3{
+  font-size: 30px;
+}
+p{
+  margin-top: 45px;
+  font-size: 20px;
+}
+a:link, a:visited, a:hover, a:active {
+  color: white; 
+  text-decoration: underline;  
+  padding-right: 40px; 
+  padding-left: 40px; 
+}
