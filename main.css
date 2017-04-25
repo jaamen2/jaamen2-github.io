@@ -24,8 +24,7 @@ body {
   border-bottom: 2px solid white;
   border-top: 2px solid white;
   display: inline-block;
-  margin-left: 40px;
-  margin-right: 40px;
+  width: 80%;
   padding: 4px;
   font-size: 22px;
 }
