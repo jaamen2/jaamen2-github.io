@@ -24,6 +24,8 @@ body {
   border-bottom: 2px solid white;
   border-top: 2px solid white;
   display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
   padding: 4px;
   font-size: 22px;
 }
@@ -41,6 +43,10 @@ h3{
 p{
   margin-top: 45px;
   font-size: 24px;
+}
+.greeting{
+  margin-left: 150px;
+  margin-right: 150px;
 }
 .activitygrid{
  vertical-align: top;
